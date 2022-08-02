@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="MvnSelNg(failed)">
+    <classes>
+      <class name="HRM.Login.LoginPageTest">
+        <methods>
+          <include name="verify_user_able_to_login_with_valid_credentials"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- HRM.Login.LoginPageTest -->
+    </classes>
+  </test> <!-- MvnSelNg(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

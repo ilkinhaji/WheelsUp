@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="UiTestSuite">
+
+    <test name="UiTest">
+
+        <classes>
+
+            <class name="WheelsUpUI.Test.WheelsUpUiTest"></class>
+
+        </classes>
+
+    </test>
+
+
+</suite>
